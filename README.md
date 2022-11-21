@@ -1,3 +1,4 @@
 # Covid19-Project-Dashboard
 
-View project here: https://public.tableau.com/app/profile/sodiq.badejo/viz/Covid19ProjectDashboard/Dashboard1
+![Dashboard 1](https://user-images.githubusercontent.com/85496076/202981591-8ae2327c-6389-45c3-90ff-93105f234f93.png)
+
